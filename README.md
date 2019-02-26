@@ -1,7 +1,7 @@
 # Quer trabalhar com front-end em nosso time?
 
 Esse é o nosso desafio para você!
-O objetivo é avaliar o seu conhecimento e habilidades nos seguintes quesitos:
+O objetivo é avaliar o seu conhecimento e habilidades em front-end.
 
 # Sobre nós
 
@@ -31,6 +31,7 @@ O desafio consiste em desenvolver telas de um e-commerce de fantasias para o car
 * O(s) arquivo(s) de css devem estar preferencialmente no diretório app/assets/styles
 * O(s) arquivo(s) de js devem estar preferencialmente no diretório app/assets/js
 * O(s) arquivo(s) de imagens extraídas do layout, devem estar preferencialmente no diretório app/assets/images
+* Utilizar a metodologia BEM para escrever css (http://getbem.com/)
 * Ao concluir, crie um PR com a branch em seu nome
 
 # O que será avaliado
