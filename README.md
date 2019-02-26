@@ -1,11 +1,7 @@
-# Quer trabalhar em nosso time de front-end?
+# Quer trabalhar com front-end em nosso time?
 
 Esse é o nosso desafio para você!
 O objetivo é avaliar o seu conhecimento e habilidades nos seguintes quesitos:
-
-* HTML
-* Estilização (stylesheet/css)
-* Javascript
 
 # Sobre nós
 
