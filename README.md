@@ -17,8 +17,10 @@ O desafio consiste em desenvolver telas de um e-commerce de fantasias para o car
 
 # Instruções
 
-* Desenvolva a página index.html seguindo os layouts apresentados no link: https://www.figma.com/file/eoSSiyKixBomqVI8U5b24zq9/CarnaStore?node-id=0%3A1
-
+* Desenvolva uma versão desktop e mobile.
+  * desktop: https://www.figma.com/file/eoSSiyKixBomqVI8U5b24zq9/CarnaStore?node-id=0%3A1
+  * mobile: https://www.figma.com/file/OuazRMSWcvCvL6oaVyhTfFXN/CarnaStore-Responsivo?node-id=0%3A1
+* Utilizar apenas dois breakpoints: desktop e mobile.
 * Não poderá usar frameworks css como Bootstrap, Materialize, Bulma
 * Utilize a pasta app/views para colocar os arquivos .html
 
@@ -41,6 +43,10 @@ O desafio consiste em desenvolver telas de um e-commerce de fantasias para o car
 * Javascript
 * Semântica
 * Organização
+
+# Prazo
+
+O prazo de entrega é até o dia: 20/03/2019.
 
 # Dúvidas
 
