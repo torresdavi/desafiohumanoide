@@ -11,6 +11,10 @@ O objetivo é avaliar o seu conhecimento e habilidades nos seguintes quesitos:
 
 Somos a Humanoide. Combinamos design, tecnologia e usabilidade para criar produtos digitais encantadores. Nosso trabalho é tirar grandes ideias do papel.
 
+# O Desafio
+
+O desafio consiste em desenvolver telas de um e-commerce de fantasias para o carnaval (já que estamos no clima, né?!). Esperamos que o candidato construa as telas presentes no layout disponibilizado e siga as instruções abaixo. Boa sorte!
+
 # Setup
 
 * Faça um fork do projeto para a sua conta e clone-o para o seu ambiente de trabalho
