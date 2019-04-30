@@ -1,0 +1,75 @@
+.div_fantasy{
+    width: 100%;
+    height: 100%;
+    background-image: url("../images/fantasia-01.png");
+    background-color: #E5E5E5;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 5em;
+    display: flex;
+
+}
+
+.div_fantasy__content{
+    padding-top: 15%;
+    padding-left: 50%;
+}
+
+.add_cart_button{
+    background-color: #FF6143;
+    color: #FFFFFF;
+    border-radius: 2em;
+    display: inline-block;
+    width: 60%;
+    height: 5%;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 5%;
+    line-height: 2em;
+}
+
+.div_fantasy_sizes{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.fantasy_size{
+    width: 10%;
+    height: 8%;
+    border: 1px solid #FF6143;
+    box-sizing: border-box;
+    border-radius: 2em;
+    text-align: center;
+    line-height: 3em;
+}
+
+.fantasy_size:hover{
+    background-color: #FF6143
+}
+
+.cart_modal{
+    display: none; 
+    position: fixed;
+    margin:15% 0 0 35%; 
+    width: 30%; 
+    height: 50%; 
+    overflow: auto;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+  }
+
+.close{
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}

@@ -1,0 +1,167 @@
+.container{
+    width: 100%;
+    height: 100%;
+}
+
+.header{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: space-between; 
+}
+
+.header__logo{
+    margin-left: 5%;
+    display: flex;
+}
+.header__slogan{
+    display: flex;
+    margin-right: 5%;
+    margin-top: 2%;
+    font-family: Roboto;
+}
+
+.div_banner{
+    background-image: url("../images/banner.jpg");
+    background-repeat: no-repeat, no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 100%;
+    height: 80%;
+    display: flex;
+}
+.title_banner{
+    padding-top: 15%;
+    padding-left: 10%;
+    font-family: sans-serif;
+    height: 30%;
+}
+.subtitle_banner{
+    padding-left: 30%;
+}
+
+.buy_button{
+    background-color: #FF6143;
+    color: #FFFFFF;
+    border-radius: 2em;
+    display: inline-block;
+    width: 30%;
+    height: 20%;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 70%;
+    line-height: 2em;
+}
+
+.div_products{
+    width: 100%;
+    height: 80%;   
+}
+
+.products__title{
+    margin-left: 35%;
+    
+}
+.div_products__cards{
+    display: flex;
+    justify-content: space-around;
+
+}
+.product__card--first{
+    width: 40%;
+    height: 60%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-image: url("../images/fantasia-01.png");
+}
+
+.product__card--first{
+    width: 40%;
+    height: 60%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-image: url("../images/fantasia-01.png");
+}
+
+
+
+.product__card--second{
+    width: 40%;
+    height: 60%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-image: url("../images/fantasia-02.png");
+}
+.product__card--third{
+    width: 40%;
+    height: 60%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-image: url("../images/fantasia-03.png");
+}
+
+.show_button{
+    background-color: #FF6143;
+    color: #FFFFFF;
+    border-radius: 2em;
+    display: none;
+    width: 25%;
+    height: 10%;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 90%;
+    line-height: 2em;
+    
+}
+
+.contact{
+    display: flex;
+    width: 100%;
+    height: 30%;
+    background-color:#FF4500;
+    justify-content: space-between;
+}
+.contact__slogan{
+    position: relative;
+    top: 70%;
+    margin-left: 5%;
+    color:white;
+
+}
+.contact__email{
+    position: relative;
+    top: 70%;
+    margin-right: 5%;
+    color:white;
+}
+
+.footer{
+    width: 100%;
+    height: 20%;
+}
+.footer__icons{
+    display: flex;
+    width: 90%;
+    height: 40%;
+    justify-content: space-between;
+    margin: 1% 0 0 5%;
+}
+
+.footer__line{
+    width: 100%;
+    height: 0px;
+    border: 1px solid #DADADA;
+    display: block;
+}
+
+.footer__developer{
+    margin-left: 40%;
+    bottom: 5%;
+    text-align: center;
+}
+
