@@ -20,7 +20,7 @@
       "price": 120.00,
       "image": "../layout/images/fantasia-02.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque. Arcu dui vivamus arcu felis bibendum. Fermentum dui faucibus in ornare. Faucibus nisl tincidunt eget nullam non nisi est sit amet. Felis imperdiet proin fermentum leo.",
-      "sizes": [
+      "sizes": [ 
         "P",
         "M",
         "G"
